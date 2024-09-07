@@ -64,3 +64,8 @@ const WalletSignComponent = () => {
 };
 
 export default WalletSignComponent;
+
+// 请给我的transfer组件添加一些UI功能：
+// 1.用户填写需要转账的账户（判断地址是否存在）
+// 2.用户填写需要转账的数量（判断这个数+0.05sol是否大于用户的余额）
+// 3.
